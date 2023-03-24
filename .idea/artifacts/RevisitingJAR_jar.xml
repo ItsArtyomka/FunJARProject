@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RevisitingJAR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RevisitingJAR_jar</output-path>
+    <root id="archive" name="RevisitingJAR.jar">
+      <element id="module-output" name="RevisitingJAR" />
+    </root>
+  </artifact>
+</component>
