@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 @SuppressWarnings({"ReassignedVariable"})
 public class Main {
-    static boolean isAccessGranted;
-    static Scanner userInput;
-
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.println("Enter password... ");
