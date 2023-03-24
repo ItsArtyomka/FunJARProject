@@ -9,11 +9,11 @@ public class Main {
         System.out.println("Enter password... ");
         String password = userInput.nextLine();
 
-        boolean isAccessGranted = false;
+        // boolean isAccessGranted = false;
 
         if (password.equals("Artyomka")) {
             System.out.println("Access Granted.");
-            isAccessGranted = true;
+            // isAccessGranted = true;
             App secretApp = new App();
             secretApp.app();
         } else {
